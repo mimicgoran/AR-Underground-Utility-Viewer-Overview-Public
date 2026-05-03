@@ -152,7 +152,7 @@ Future versions could connect to:
 
 Several challenges should be considered before moving toward a production ready solution:
 
-1. Phone GPS is not accurate enough for precise underground utility alignment
+1. Phone GPS accuracy may not be sufficient in certain scenarios for precise underground utility alignment, particularly in dense urban environments or when reference points are closely spaced
 2. GIS data must be spatially accurate and well maintained
 3. Utility lines must be correctly snapped to access points
 4. AR plane detection can be affected by poor lighting or reflective surfaces
@@ -161,15 +161,7 @@ Several challenges should be considered before moving toward a production ready 
 7. Underground infrastructure records may be incomplete or outdated
 8. Field conditions such as parked cars, shadows, and occlusions can affect detection
 
-## 7. Repository note
-
-This repository provides a high level overview of the prototype.
-
-The complete working dataset, implementation details, technical documentation, experiments, and internal development notes are maintained separately.
-
-Access to the full documentation and dataset can be provided upon request. I am open to collaboration, technical discussions, and further development of this concept.
-
-## 8. Current project status
+## 7. Current project status
 
 This is an MVP and proof of concept.
 
