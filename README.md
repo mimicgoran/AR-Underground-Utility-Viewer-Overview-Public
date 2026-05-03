@@ -165,6 +165,4 @@ Several challenges should be considered before moving toward a production ready 
 
 This is an MVP and proof of concept.
 
-It is not intended to be used as a production grade utility locating tool.
-
-The purpose is to demonstrate how GIS data, AR visualization, and spatial alignment logic can be combined into a practical field oriented prototype.
+The purpose is to demonstrate how GIS data, AR visualization, and spatial alignment logic can be combined into a practical field oriented prototype, and to show that a more affordable approach to infrastructure visualization is possible.
