@@ -64,7 +64,7 @@ The intended workflow is:
 
 The prototype uses:
 
-1. QGIS for GIS data preparation
+1. QGIS/ArcGIS for GIS data preparation
 2. GeoJSON as the exchange format
 3. Python for data transformation
 4. Unity for mobile development
